@@ -13,10 +13,6 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=darevalo2022062&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=darevalo2022062&layout=compact&theme=radical&hide_border=true)
-
 ![Actividad Reciente](https://github-readme-activity-graph.vercel.app/graph?username=darevalo2022062&theme=react-dark&hide_border=true)
 
 ## 🛠️ Tecnologías y Herramientas
