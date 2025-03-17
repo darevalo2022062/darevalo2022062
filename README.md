@@ -4,13 +4,6 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado por la tecnología y me encanta construir cosas increíbles.
 
-### 🔧 Tecnologías y Herramientas
-
-- **Lenguajes:** JavaScript, Python, Java
-- **Frameworks:** React, Node.js, Django
-- **Herramientas:** Git, Docker, VS Code, PowerShell
-- **Linux <3**
-
 ## 📊 Estadísticas de GitHub
 
 ![Actividad Reciente](https://github-readme-activity-graph.vercel.app/graph?username=darevalo2022062&theme=react-dark&hide_border=true)
